@@ -1,0 +1,11 @@
+# Autosaves
+*~
+
+# compiled output
+/dist
+/tmp
+
+# Runtime data
+pids
+*.pid
+*.seed
