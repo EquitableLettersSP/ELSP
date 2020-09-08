@@ -13,3 +13,4 @@ letter.
    stereotypical associations. For example, "magnetospheric driven processes", while driven is a masuline coded word, in this example it is not describing the applicant but instead the science process.  
 5. Look for examples that have stereotypical associates or could be replaced
    with a different example with more positive associations. e.g. "completed all tasks asigned" vs "Led independent research"
+6. Please allow 5-10 business days for a response (or whatever time frame people want to give, but we need to come up with some time frame).
