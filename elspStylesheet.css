@@ -45,10 +45,10 @@ a:hover {
 }
 
 li {
-    margin-left: 25px;
+    margin-left: -40px;
 }
 
-.nav {
+.pageTab {
     display: inline;
     padding: 0px 50px 0px 0px;
     text-align: left;
@@ -58,7 +58,7 @@ li {
     font-weight: bold;       
 }
 
-.bar {
+nav {
    line-height: 0px;
     padding: 10px;
 }
@@ -75,3 +75,54 @@ li {
     margin-top: 0px;
     margin-left: 50px;
 }
+
+.sample {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 200px;
+    padding: 20px 50px 20px 10px;
+    text-decoration: none;
+    text-align: left;
+    list-style-type: none;
+}
+
+.sample:hover {
+      background-color: #6282db;
+}
+
+.sample:active {
+    background-color:#4961b2;
+    color: white;
+}
+
+.letterExamples {
+    list-style-type: none;
+    float: left;
+}
+
+.sampleLetter {
+      background-color: white;
+      box-shadow: 10px 10px 10px 10px #888888;
+      font-family: 'Times New Roman', Times, serif;
+      width: 600px;
+      padding: 80px;
+      margin: 20px auto;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  .letterhead{
+      position: relative;
+      width: 350px;
+      z-index: 9;
+  }
+
+  .hoverText{ 
+      border-bottom: 1px dotted red;
+      cursor: help;
+      color: #4961b2;
+  }
+
+  .hoverText:hover {
+    color: #888888;
+  }
