@@ -1,5 +1,6 @@
 # Guidelines for letter review
 
+## Reviewer checklist
 This is a checklist that all reviewers will go through when they receive a
 letter.
 
@@ -15,6 +16,21 @@ letter.
 5. Look for examples that have stereotypical associations or could be replaced
    with a different example with more positive associations. For instance,
    "managed group meeting" vs "Led group research meetings".
-6. Obtain a final percentage of male- and female-associated words with the
+6. Consider the letter formatting, looking out for things like excessive blank
+   space, unprofessional fonts, and size of signature
+7. Obtain a final percentage of male- and female-associated words with the
    Gender-Bias calculater.
-7. Please allow 5-10 business days for a response.
+8. Please allow 5-10 business days for a response.
+
+## Types of biases
+Common unconcious biases that appear in recommendation and nomination letters
+to keep an eye out for:
+
+- Racial background
+- Gender
+- Age
+- Class/Socioeconomic background
+- Foreign national
+- Introvert/Extrovert
+- Affinity
+- Halo/Horns effect
