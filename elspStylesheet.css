@@ -10,12 +10,12 @@ header {
 
 div {
     width: 75%;
-    margin-left: 150px;
+    margin: auto;
 }
 
 article {
     width: 75%;
-    margin-left: 150px;
+    margin: auto;
 }
 
 h1 {
@@ -44,23 +44,20 @@ a:hover {
     color: rgba(0,0,0,0.4);
 }
 
-li {
-    margin-left: -40px;
-}
-
 .pageTab {
-    display: inline;
-    padding: 0px 50px 0px 0px;
+    display: inline-block;
+    margin: 15px 15px 15px 15px;
     text-align: left;
-    margin: 0px;
     color: #017698;
     text-decoration: none;
-    font-weight: bold;       
+    font-weight: bold; 
+    flex-wrap: wrap;    
 }
 
 nav {
    line-height: 0px;
-    padding: 10px;
+   display: inline-block;
+   
 }
 
 .logo {
