@@ -32,18 +32,20 @@ List of any people who were included in the review process
 
 ## Potential conflicts of interest
 
-Please disclose any potential conflicts of interest that were overlook on
-the assignment of this letter (remove all that do not apply).
+Please disclose any potential conflicts of interest that were overlooked on
+the assignment of this letter.  These may include belonging to the same
+institution, having a financial relationship, or having a close personal
+relationship with the applicant, nominee, or letter writer.  For example,
+if you are a Co-I on a grant where the letter writer is the PI, you have a
+financial relationship.
 
-- Same institution as the *applicant/nominee* or *letter writer*
-- Financial relationship with the *applicant/nominee* or *letter writer*
-- Personal relationship with the *applicant/nominee* or *letter writer*
-- Financial relationship with the intended target of the letter
-- Personal relationship with the intended target of the letter
+*None*
 
 ## Biases detected
 
-Remove any biases that were not found in the reviewed letter
+Please list any implicit biases that were detected when reviewing this letter.
+Several common ones are listed below, remove any biases that were not found (or
+add any additional ones that were identified) in the reviewed letter
 
 - Racial background
 - Gender
