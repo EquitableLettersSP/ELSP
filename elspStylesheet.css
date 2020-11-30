@@ -70,7 +70,7 @@ a:hover {
   text-align: left;
   border: none;
   outline: none;
-  transition: 0.4s;
+  transition: .5s;
 }
 
 .expandCollapse:hover {
@@ -82,10 +82,16 @@ a:hover {
     background-color: white;
     box-shadow: 10px 10px 10px 10px #888888;
     font-family: 'Times New Roman', Times, serif;
-    width: 600px;
+    width: 75%;
+    margin: auto;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.letterContent {
     padding: 80px;
-    margin: 20px auto;
-    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
 }
 
 .letterhead{
