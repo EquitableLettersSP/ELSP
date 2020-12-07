@@ -1,130 +1,138 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf840
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
-{\colortbl;\red255\green255\blue255;\red5\green99\blue193;}
-{\*\expandedcolortbl;;\csgenericrgb\c1961\c38824\c75686;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
-{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
-{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}
-\margl1440\margr1440\vieww17240\viewh15040\viewkind0
-\deftab720
-\pard\pardeftab720\ri0\qc\partightenfactor0
+# ELSP Code of Conduct
 
-\f0\b\fs24 \cf0 \ul \ulc0 ELSP Code of Conduct\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+We at ELSP have chosen to adopt and follow the standards outlined in the
+Contributor Covenant Code of Conduct written for the development and use for
+Open Source Projects, at
+[Version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
-\i \cf0 \ulnone We at ELSP have chosen to adopt and follow the standards outlined in the Contributor Covenant Code of Conduct written for the development and use for Open Source Projects ({\field{\*\fldinst{HYPERLINK "https://www.contributor-covenant.org/version/2/0/code_of_conduct/"}}{\fldrslt \cf2 \ul \ulc2 https://www.contributor-covenant.org/version/2/0/code_of_conduct/}}).
-\i0\b0 \
-\pard\pardeftab720\ri0\partightenfactor0
 
-\b \cf0 \
-Our Pledge\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+## Our Pledge
 
-\b0 \cf0 We as editors, reviewers, and writers pledge to follow in the name of our effort, Equitable Letters in Space Physics, and pledge to make our community a kind and respectful experience for everyone, regardless of age, body size, ethnicity, sex and or gender identity and expression, education, level of experience, personal appearance, race, religion, socio-economic status, sexual orientation, or disability.\
-\
-It our pledge to act and interact in ways that are equitable, diverse, inclusive, empathetic, and understanding to those within and outside our communities.\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+We as editors, reviewers, and writers pledge to follow in the name of our
+effort, Equitable Letters in Space Physics, and pledge to make our community a
+kind and respectful experience for everyone, regardless of age, body size,
+ethnicity, sex and or gender identity and expression, education, level of
+experience, personal appearance, race, religion, socio-economic status, sexual
+orientation, or disability.
 
-\b \cf0 Our Standards\
-\pard\pardeftab720\ri0\partightenfactor0
+It our pledge to act and interact in ways that are equitable, diverse,
+inclusive, empathetic, and understanding to those within and outside our
+communities.
 
-\b0 \cf0 \
-We offer the following additional example(s) of behavior that contribute to a more equitable environment for our community:\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls1\ilvl0
-\f1 \cf0 \'a5	
-\f0 Timely responses from letter reviewer(s) and submitter(s).\
-\ls1\ilvl0
-\f1 \'a5	
-\f0 Disclosing submission of a letter/recommendation to ELSP to proper overseeing bodies following the standards of a person\'92s employer.\
-\ls1\ilvl0
-\f1 \'a5	
-\f0 Focusing on what is best for the person(s) described in letter/recommendation.\
-\ls1\ilvl0
-\f1 \'a5	
-\f0\b ADDITIONS \'85\
-\pard\pardeftab720\ri0\partightenfactor0
-\cf0 \
-\pard\pardeftab720\ri0\partightenfactor0
+## Our Standards
 
-\b0 \cf0 We offer the following additional example(s) of behavior that are unacceptable:\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls2\ilvl0
-\f1 \cf0 \'a5	
-\f0 Disregarding the comments offered by reviewer(s) with intention of making a letter/recommendation more equitable.\
-\ls2\ilvl0
-\f1 \'a5	
-\f0 Not adhering to the guidelines for submitters and reviews (link).\
-\ls2\ilvl0
-\f1 \'a5	
-\f0\b ADDITIONS \'85\
-\pard\pardeftab720\ri0\partightenfactor0
+We offer the following additional example(s) of behavior that contribute to a
+more equitable environment for our community:
 
-\b0 \cf0 \
-\pard\pardeftab720\ri0\partightenfactor0
+- Demonstrating empathy and kindness toward other people.
+- Timely responses from letter reviewer(s) and submitter(s).
+- Disclosing submission of a letter/recommendation to ELSP to proper overseeing
+  bodies following the standards of a person's employer.
+- Focusing on what is best for the person(s) described in letter/recommendation.
+- ADDITIONS
 
-\b \cf0 Enforcement Responsibilities\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+We offer the following additional example(s) of behavior that are unacceptable:
 
-\b0 \cf0 Original creators and the current editorial board volunteers at ELSP are responsible for elucidating and enforcing standards of acceptable and unacceptable behavior.\
-\
-In the case of unacceptable behavior, ELSP, has the right to refuse to review and or provide feedback to contributors whose actions are not aligned with this and the Covenant Code of Conduct.\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+- The use of sexualized language or imagry, and sexual attention or advances of
+  any kind.
+- Trolling, insulting or derogatory comments, and personal or political attacks.
+- Public or private harassment.
+- Revealing information reviewed in confidence.
+- Publishing others' private information, such as a physical or email address,
+  without their explicit permission.
+- Disregarding the comments offered by reviewer(s) with intention of making a
+  letter/recommendation more equitable.
+- Not adhering to the guidelines for submitters and reviews (LINK HERE).
+- ADDITIONS
 
-\b \cf0 Scope
-\b0 \
-\
+## Enforcement Responsibilities
 
-\b Couldn\'92t come up with the best words here. Help!\
-\pard\pardeftab720\ri0\partightenfactor0
+Original creators and the current editorial board volunteers at ELSP are
+responsible for elucidating and enforcing standards of acceptable and
+unacceptable behavior.
 
-\b0 \cf0 \
-\pard\pardeftab720\ri0\partightenfactor0
+In the case of unacceptable behavior, ELSP, has the right to refuse to review
+and or provide feedback to contributors whose actions are not aligned with this
+and the Covenant Code of Conduct.
 
-\b \cf0 HELP ON ALL BELOW!!\
-\
-Enforcement\
-\
-Enforcement Guidelines\
-\
-\pard\pardeftab720\ri0\partightenfactor0
+## Scope
 
-\b0 \cf0 Here, ELSP will follow the Covenant Code of Conduct in determining the consequences any action(s) deemed to be a violation of this Code of Conduct:\
-\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls3\ilvl0
-\b \cf0 1.)	Correction
-\b0 \
-\pard\pardeftab720\li720\ri0\partightenfactor0
-\cf0 Should this text be any different than what\'92s in the Covenant Code of Conduct?\
-\pard\pardeftab720\ri0\partightenfactor0
-\cf0 \
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls4\ilvl0
-\b \cf0 2.)	Warning
-\b0 \
-\pard\pardeftab720\li720\ri0\partightenfactor0
-\cf0 \
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls5\ilvl0
-\b \cf0 3.)	Temporary Ban
-\b0 \
-\pard\pardeftab720\li720\ri0\partightenfactor0
-\cf0 Cannot submit or review for a certain period of time.\
-\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls6\ilvl0
-\b \cf0 4.)	Permanent Ban\
-\pard\pardeftab720\li360\fi360\ri0\partightenfactor0
+This Code of Conduct applies to all community spaces, and also applies when an
+individual is officially representing the community in public spaces.  Examples
+of representing our community include, but are not limited to, using an official
+e-mail address and acting as a representative at a conference.  Examples of
+community spaces include, but are not limited to, official e-mail
+correspondence, the GitHub repository, and officially sponsored offline events.
 
-\b0 \cf0 Cannot submit to or review for ELSP.\
-}
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
+reported to the editorial board at equitable.space.letters@gmail.com.  All
+complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+
+### Enforcement Guidelines
+
+Here, ELSP will follow the Covenant Code of Conduct in determining the
+consequences any action(s) deemed to be a violation of this Code of Conduct:
+
+1.) Correction
+
+Community Impact: Use of inappropriate language or other behaviour deemed
+unprofessional or unwelcome in the community.
+
+Consequence: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behaviour was inappropriate.  A public apology may be requested.
+
+2.) Warning
+
+Community Impact: A violation through a single incident or series of actions.
+
+Consequence: A warning with consequences for continued behavior. No interaction
+with the people involved, including unsolicited interaction with those enforcing
+the Code of Conduct, for a specified period of time. This includes avoiding
+interactions in community spaces as well as external channels like social media.
+Violating these terms may lead to a temporary or permanent ban.
+
+3.) Temporary Ban
+
+Community Impact: A serious violation of community standards, including
+sustained inappropriate behaviour.
+
+Consequence: Barred from all community spaces (including acting as a reviewer or
+submitting a letter for review) for a specified period of time.  No public or
+private interaction with involved parties, including unsolicited interaction
+with those enforcing the Code of Conduct, should be initiated during this
+period.  Violating these terms may lead to a permanent ban.  If the temporary
+ban occurs in response to actions against an individual, the editorial board
+will offer to back the offended party should they wish to take further action,
+including notifying the offenders' institution or professional organisations.
+
+4.) Permanent Ban
+
+Community Impact: Demonstrating a pattern of violation of community standards,
+including sustained inappropriate behaviour, harassment of an individual, or
+aggression toward or disparagement of classes of individuals.
+
+Consequence: A permanent ban from the community.  May not act as a reviewer or
+editor, may not submit letters for review, may not participate in online or
+offline spaces.  The editorial board will contact the offenders' institution
+and relevant professional organisations if the behaviour also violates the
+Code of Conduct of those communities.  If the permanent ban occurs in response
+to actions against an individual, the editorial board will offer to back the
+offended party should they wish to take further action.
+
+## Attribution
+
+This code of Conduct is adapted from the
+[Contributor Covenant](https://www.contributor-covenant.org/), version 2.0,
+available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+
+For answers to common questions about the Contributor Covenant, see the FAQ at
+[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq).
