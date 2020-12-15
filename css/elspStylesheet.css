@@ -1,0 +1,58 @@
+/* sitewide layout/styles */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
+    align-items: center;
+}
+
+.centerPanel {
+    width: 75%;
+}
+
+a {
+    color: #4961b2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgba(0,0,0,0.4);
+}
+
+/* header styles */
+
+.banner {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    width: 175px;
+    height: 175px;
+    position: relative;
+    float: left;
+    padding: 25px 25px 25px 0px;}
+
+.headerText {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0px;
+    margin: 20px 0px;
+}
+
+.pageTab {
+    text-decoration: none;
+    font-weight: bold;
+}
+
