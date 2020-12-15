@@ -1,0 +1,50 @@
+.expandCollapse{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: .5s;
+}
+
+.expandCollapse:hover {
+    background-color: #6282db;
+    color: white;
+}
+
+.sampleLetter {
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px #888888;
+    font-family: 'Times New Roman', Times, serif;
+    width: 75%;
+    margin: auto;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.letterContent {
+    padding: 80px;
+    margin: auto;
+}
+
+.letterhead{
+    position: relative;
+    width: 350px;
+    z-index: 9;
+}
+
+.hoverText{ 
+    border-bottom: 1px dotted red;
+    cursor: help;
+    color: #4961b2;
+}
+
+.hoverText:hover {
+  color: #888888;
+}
