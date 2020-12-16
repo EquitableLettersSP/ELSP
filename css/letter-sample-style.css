@@ -41,7 +41,7 @@
 }
 
 .hoverText{ 
-    border-bottom: 1px dotted red;
+    border-bottom: 1px dashed red;
     cursor: help;
     color: #4961b2;
 }
@@ -49,3 +49,31 @@
 .hoverText:hover {
   color: #888888;
 }
+
+a.tooltip {
+    font-weight: normal;
+    border-bottom: 1px dashed red;
+    text-decoration: none;
+  }
+  a.tooltip:hover {
+    color: #2d3963;
+    cursor: help;
+    position: relative;
+  }
+  a.tooltip span {
+    display: none;
+  }
+  a.tooltip:hover span {
+    color: #2d3963;
+    border: #666 1px solid;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    z-index: 100;
+    background: #ffdbb9;
+    left: 0px;
+    margin-top: 25px;
+    width: 500px;
+    position: absolute;
+    top: 15px;
+    text-decoration: none;
+  }
