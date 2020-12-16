@@ -1,15 +1,16 @@
 .expandCollapse{
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
+    font-size: 1em;
     background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: .5s;
+    color: #444;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: 1px solid gray;
+    outline: none;
+    transition: .5s;
 }
 
 .expandCollapse:hover {
