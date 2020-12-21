@@ -4,6 +4,7 @@ We at ELSP have chosen to adopt and follow the standards outlined in the
 Contributor Covenant Code of Conduct written for the development and use for
 Open Source Projects, at
 [Version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+This is version 1.0 of our Code of Conduct (ADD DATE AFTER ADDING LINKS).
 
 
 ## Our Pledge
@@ -29,7 +30,6 @@ more equitable environment for our community:
 - Disclosing submission of a letter/recommendation to ELSP to proper overseeing
   bodies following the standards of a person's employer.
 - Focusing on what is best for the person(s) described in letter/recommendation.
-- ADDITIONS
 
 We offer the following additional example(s) of behavior that are unacceptable:
 
@@ -40,10 +40,9 @@ We offer the following additional example(s) of behavior that are unacceptable:
 - Revealing information reviewed in confidence.
 - Publishing others' private information, such as a physical or email address,
   without their explicit permission.
-- Disregarding the comments offered by reviewer(s) with intention of making a
-  letter/recommendation more equitable.
+- Violation of the confidentiality of the review process without the consent of
+  all of the involved parties.
 - Not adhering to the guidelines for submitters and reviews (LINK HERE).
-- ADDITIONS
 
 ## Enforcement Responsibilities
 
