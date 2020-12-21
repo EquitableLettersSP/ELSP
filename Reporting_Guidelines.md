@@ -2,11 +2,11 @@
 
 Equitable Letters for Space Physics (ELSP) is a community driven project that
 involves researchers in the international Space Physics community.  Because
-equality, inclusion, and diversity are at the heart of this projct, all members
-are expected to treat all other members with respect and courtesy.  If you feel
-that the Code of Conduct was violated in an ELSP event or online space (either
-towards yourself or towards another person), please follow these guidelines
-when reporting it to the ELSP editorial board.
+equality, inclusion, and diversity are at the heart of this project, all members
+are expected to treat all other members with respect and courtesy.  If you need
+to report a violation of the Code of Conduct in an ELSP online space or event
+(whether involving yourself or involving another person), please follow these
+guidelines when reporting it to the ELSP editorial board.
 
 ## Incident report
 
@@ -48,4 +48,4 @@ when reporting it to the ELSP editorial board.
 
 6. If other people were present, please provide their names (if known)
 
-7. Please detail the remedy you are seeking
+7. Please tell us how we could take action to make you feel safer
