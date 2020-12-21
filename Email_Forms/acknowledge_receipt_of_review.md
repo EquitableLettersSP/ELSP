@@ -1,6 +1,6 @@
 # Notes
 
-In the following form, repace:
+In the following form, replace:
 Reviewer - name of person from whom we are requesting a review
 Editor - your name
 
@@ -14,7 +14,7 @@ We sincerely appreciate the time and effort you put into this review. Without yo
 
 Potential statement about demographic information of the reviewer.
 
-Potential state about receiving feedback about the process.
+Potential statement about receiving feedback about the process.
 
 Kind Regards,
 Editor

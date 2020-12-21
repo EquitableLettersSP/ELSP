@@ -1,6 +1,6 @@
 # Notes
 
-In the following form, repace:
+In the following form, replace:
 Sender - name of person who submitted a letter for review
 sender@email.com - email of person who submitted a letter for review
 Editor - your name

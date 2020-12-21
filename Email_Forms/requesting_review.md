@@ -1,6 +1,6 @@
 # Notes
 
-In the following form, repace:
+In the following form, replace:
 Reviewer - name of person from whom we are requesting a review
 Editor - your name
 

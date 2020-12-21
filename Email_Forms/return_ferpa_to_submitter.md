@@ -1,10 +1,10 @@
 # Notes
 
-In the following form, repace:
+In the following form, replace:
 Sender - name of person who submitted a letter for review
 sender@email.com - email of person who submitted a letter for review
 Editor - your name
-Xxxxx (e.g., example) - replace with the type of PII found in the letter and wheere in the letter it was located.  Do not copy the PII in the email.
+Xxxxx (e.g., example) - replace with the type of PII found in the letter and where in the letter it was located.  Do not copy the PII in the email.
 
 # Form
 
@@ -17,7 +17,7 @@ Xxxxx (e.g., Place of birth in second paragraph)
 
 Please review the attached letter and make the necessary modifications.
 
-If you have any further questions regarding this matter, please contact us by replying to the e-mail.
+If you have any further questions regarding this matter, please contact us by replying to this e-mail.
 
 Sincerely,
 Editor
