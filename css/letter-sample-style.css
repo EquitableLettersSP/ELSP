@@ -59,6 +59,7 @@ a.tooltip {
     color: #2d3963;
     cursor: help;
     position: relative;
+    background-color: #ffdbb9;
   }
   a.tooltip span {
     display: none;
@@ -70,10 +71,10 @@ a.tooltip {
     display: block;
     z-index: 100;
     background: #ffdbb9;
-    left: 0px;
-    margin-top: 25px;
+    /* left: 0px; */
+    margin-top: 5px;
     width: 500px;
     position: absolute;
-    top: 15px;
+    /* top: 15px; */
     text-decoration: none;
   }
