@@ -20,7 +20,7 @@
 
 .sampleLetter {
     background-color: white;
-    box-shadow: 10px 10px 10px 10px #888888;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
     font-family: 'Times New Roman', Times, serif;
     width: 75%;
     margin: auto;
@@ -30,7 +30,7 @@
 }
 
 .letterContent {
-    padding: 80px;
+    padding: 80px 80px 100px 80px;
     margin: auto;
 }
 
