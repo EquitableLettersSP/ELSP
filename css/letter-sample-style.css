@@ -55,26 +55,27 @@ a.tooltip {
     border-bottom: 1px dashed red;
     text-decoration: none;
   }
-  a.tooltip:hover {
+
+a.tooltip:hover {
     color: #2d3963;
     cursor: help;
     position: relative;
     background-color: #ffdbb9;
   }
-  a.tooltip span {
+
+a.tooltip span {
     display: none;
   }
-  a.tooltip:hover span {
+
+a.tooltip:hover span {
     color: #2d3963;
     border: #666 1px solid;
     padding: 10px 10px 10px 10px;
     display: block;
     z-index: 100;
     background: #ffdbb9;
-    /* left: 0px; */
     margin-top: 5px;
     width: 500px;
     position: absolute;
-    /* top: 15px; */
     text-decoration: none;
   }
