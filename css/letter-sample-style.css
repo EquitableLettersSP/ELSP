@@ -1,0 +1,81 @@
+.expandCollapse{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: 1px solid gray;
+    outline: none;
+    transition: .5s;
+}
+
+.expandCollapse:hover {
+    background-color: #6282db;
+    color: white;
+}
+
+.sampleLetter {
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
+    font-family: 'Times New Roman', Times, serif;
+    width: 75%;
+    margin: auto;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.letterContent {
+    padding: 80px 80px 100px 80px;
+    margin: auto;
+}
+
+.letterhead{
+    position: relative;
+    width: 350px;
+    z-index: 9;
+}
+
+.hoverText{ 
+    border-bottom: 1px dashed red;
+    cursor: help;
+    color: #4961b2;
+}
+
+.hoverText:hover {
+  color: #888888;
+}
+
+a.tooltip {
+    font-weight: normal;
+    border-bottom: 1px dashed red;
+    text-decoration: none;
+}
+
+a.tooltip:hover {
+    color: #2d3963;
+    cursor: help;
+    position: relative;
+    background-color: #ffdbb9;
+}
+
+a.tooltip span {
+    display: none;
+}
+
+a.tooltip:hover span {
+    color: #2d3963;
+    border: #666 1px solid;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    z-index: 100;
+    background: #ffdbb9;
+    margin-top: 5px;
+    width: 500px;
+    position: absolute;
+    text-decoration: none;
+}
