@@ -54,18 +54,18 @@ a.tooltip {
     font-weight: normal;
     border-bottom: 1px dashed red;
     text-decoration: none;
-  }
+}
 
 a.tooltip:hover {
     color: #2d3963;
     cursor: help;
     position: relative;
     background-color: #ffdbb9;
-  }
+}
 
 a.tooltip span {
     display: none;
-  }
+}
 
 a.tooltip:hover span {
     color: #2d3963;
@@ -78,4 +78,4 @@ a.tooltip:hover span {
     width: 500px;
     position: absolute;
     text-decoration: none;
-  }
+}
