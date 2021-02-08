@@ -3,7 +3,7 @@
 In the following form, replace:
 Sender - name of person who submitted a letter for review
 sender@email.com - email of person who submitted a letter for review
-Editor - your name
+Director - your name
 Xxxxx (e.g., example) - replace with the type of PII found in the letter and where in the letter it was located.  Do not copy the PII in the email.
 
 # Form
@@ -20,5 +20,5 @@ Please review the attached letter and make the necessary modifications.
 If you have any further questions regarding this matter, please contact us by replying to this e-mail.
 
 Sincerely,
-Editor
+Director
 Equitable Letters in Space Physics

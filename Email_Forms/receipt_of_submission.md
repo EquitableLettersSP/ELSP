@@ -3,7 +3,7 @@
 In the following form, replace:
 Sender - name of person who submitted a letter for review
 sender@email.com - email of person who submitted a letter for review
-Editor - your name
+Director - your name
 
 # Form
 
@@ -14,5 +14,5 @@ We would like to inform you that we have received your letter, which has been su
 We appreciate your contribution and recognition of the importance of drafting equitable letters in our field. We will make every effort to efficiently and thoroughly evaluate your letter and provide actionable feedback.
 
 Sincerely,
-Editor
+Director
 Equitable Letters in Space Physics

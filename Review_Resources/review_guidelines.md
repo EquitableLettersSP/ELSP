@@ -27,7 +27,7 @@ Common unconcious biases that appear in recommendation and nomination letters
 to keep an eye out for:
 
 - Racial background
-- Gender
+- Gender/Orientation
 - Age
 - Class/Socioeconomic background
 - Foreign national

@@ -2,7 +2,7 @@
 
 In the following form, replace:
 Reviewer - name of person from whom we are requesting a review
-Editor - your name
+Director - your name
 
 # Form
 
@@ -17,5 +17,5 @@ Potential statement about demographic information of the reviewer.
 Potential statement about receiving feedback about the process.
 
 Kind Regards,
-Editor
+Director
 Equitable Letters in Space Physics
