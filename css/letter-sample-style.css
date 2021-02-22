@@ -72,10 +72,8 @@ a.tooltip:hover span {
     border: #666 1px solid;
     padding: 10px 10px 10px 10px;
     display: block;
-    z-index: 100;
     background: #ffdbb9;
     margin-top: 5px;
-    width: 500px;
     position: absolute;
     text-decoration: none;
 }
