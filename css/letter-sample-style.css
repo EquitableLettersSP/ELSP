@@ -47,10 +47,10 @@
 }
 
 .hoverText:hover {
-  color: #888888;
+  color: #580202;
 }
 
-a.tooltip {
+/* a.tooltip {
     font-weight: normal;
     border-bottom: 1px dashed red;
     text-decoration: none;
@@ -76,4 +76,4 @@ a.tooltip:hover span {
     margin-top: 5px;
     position: absolute;
     text-decoration: none;
-}
+} */
