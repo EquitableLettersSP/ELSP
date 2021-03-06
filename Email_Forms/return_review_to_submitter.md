@@ -2,13 +2,13 @@
 
 In the following form, replace:
 Sender - name of person who submitted a letter for review
-Editor - your name
+Director - your name
 
 # Form
 
 Dear Sender,
 
-Thank you for submitting your letter to Equitable Letters in Space Physics. We have received x reviews of you letter, which are included and/or attached. The thoughtful and actionable feedback offered in the reviewer assessment of your letter should be taken into account and will aid you in submitting a more equitable nomination/recommendation letter.
+Thank you for submitting your letter to Equitable Letters in Space Physics. We have received x reviews of your letter, which are included and/or attached. We hope that the feedback offered will aid you in submitting a more equitable nomination/recommendation letter.
 
 The criteria used to review your letter can be found here (link to our reviewer criteria).
 
@@ -17,5 +17,5 @@ We hope that you find the reviewer comments helpful towards improving the overal
 We appreciate your efforts in making our community a more equitable one.
 
 Best regards,
-Editor
+Director
 Equitable Letters in Space Physics

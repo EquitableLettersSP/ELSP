@@ -48,7 +48,7 @@ Several common ones are listed below, remove any biases that were not found (or
 add any additional ones that were identified) in the reviewed letter
 
 - Racial background
-- Gender
+- Gender/Orientation
 - Age
 - Class/Socioeconomic background
 - Foreign national

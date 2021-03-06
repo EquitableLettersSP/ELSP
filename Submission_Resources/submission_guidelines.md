@@ -1,9 +1,9 @@
 # Guidelines for submitting letters for review
 
-Before submitting your letter for review, please ensure that you have (or are
-ready to) meet the following conditions:
+Before submitting your letter for review, please ensure that you have completed
+the following checklist:
 
-- [ ] Remove or redact all personal identifying information (PII). A common
+- [ ] Remove or redact all personal identifying information (PII) per FERPA regulations (https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html). A common
   example that may be appropriate for some letters include grades.
 - [ ] Run the letter through a spell checker. Reviewers will also make note of
   spelling and grammar mistakes, but minimizing these will improve the

@@ -6,10 +6,11 @@ body {
     justify-content: center;
     font-family: 'Ubuntu', sans-serif;
     align-items: center;
+    line-height: 1.25em;
 }
 
 .centerPanel {
-    width: 75%;
+    width: 85%;
 }
 
 a {

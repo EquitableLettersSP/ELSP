@@ -2,7 +2,7 @@
 
 In the following form, replace:
 Reviewer - name of person from whom we are requesting a review
-Editor - your name
+Director - your name
 
 # Form
 
@@ -20,5 +20,5 @@ Please reply to this email and select 1 of these 3 options:
 Please let us know your decision as soon as possible. This will help us provide the author with a timely and efficient review.
 
 Many thanks and best regards,
-Editor
+Director
 Equitable Letters in Space Physics

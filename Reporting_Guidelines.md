@@ -1,6 +1,6 @@
 # ELSP reporting guidelines
 
-Equitable Letters for Space Physics (ELSP) is a community driven project that
+Equitable Letters for Space Physics (ELSP) is a community-driven project that
 involves researchers in the international Space Physics community.  Because
 equality, inclusion, and diversity are at the heart of this project, all members
 are expected to treat all other members with respect and courtesy.  If you need
