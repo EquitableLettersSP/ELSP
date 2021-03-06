@@ -4,11 +4,12 @@ We at ELSP have chosen to adopt and follow the standards outlined in the
 Contributor Covenant Code of Conduct written for the development and use for
 Open Source Projects, at
 [Version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+This is version 1.0 of our Code of Conduct, which was adopted on 8 Feb 2021.
 
 
 ## Our Pledge
 
-We as editors, reviewers, and writers pledge to follow in the name of our
+We as directors, reviewers, and writers pledge to follow this code of conduct in the name of our
 effort, Equitable Letters in Space Physics, and pledge to make our community a
 kind and respectful experience for everyone, regardless of age, body size,
 ethnicity, sex and or gender identity and expression, education, level of
@@ -29,7 +30,6 @@ more equitable environment for our community:
 - Disclosing submission of a letter/recommendation to ELSP to proper overseeing
   bodies following the standards of a person's employer.
 - Focusing on what is best for the person(s) described in letter/recommendation.
-- ADDITIONS
 
 We offer the following additional example(s) of behavior that are unacceptable:
 
@@ -40,10 +40,9 @@ We offer the following additional example(s) of behavior that are unacceptable:
 - Revealing information reviewed in confidence.
 - Publishing others' private information, such as a physical or email address,
   without their explicit permission.
-- Disregarding the comments offered by reviewer(s) with intention of making a
-  letter/recommendation more equitable.
+- Violation of the confidentiality of the review process without the consent of
+  all of the involved parties.
 - Not adhering to the guidelines for submitters and reviews (LINK HERE).
-- ADDITIONS
 
 ## Enforcement Responsibilities
 
@@ -52,7 +51,7 @@ responsible for elucidating and enforcing standards of acceptable and
 unacceptable behavior.
 
 In the case of unacceptable behavior, ELSP, has the right to refuse to review
-and or provide feedback to contributors whose actions are not aligned with this
+and/or provide feedback to contributors whose actions are not aligned with this
 and the Covenant Code of Conduct.
 
 ## Scope
@@ -76,7 +75,7 @@ reporter of any incident.
 ### Enforcement Guidelines
 
 Here, ELSP will follow the Covenant Code of Conduct in determining the
-consequences any action(s) deemed to be a violation of this Code of Conduct:
+consequences of any action(s) deemed to be a violation of this Code of Conduct:
 
 1.) Correction
 
@@ -109,7 +108,7 @@ with those enforcing the Code of Conduct, should be initiated during this
 period.  Violating these terms may lead to a permanent ban.  If the temporary
 ban occurs in response to actions against an individual, the editorial board
 will offer to back the offended party should they wish to take further action,
-including notifying the offenders' institution or professional organisations.
+including notifying the offenders' institution or professional organizations.
 
 4.) Permanent Ban
 
@@ -120,14 +119,14 @@ aggression toward or disparagement of classes of individuals.
 Consequence: A permanent ban from the community.  May not act as a reviewer or
 editor, may not submit letters for review, may not participate in online or
 offline spaces.  The editorial board will contact the offenders' institution
-and relevant professional organisations if the behaviour also violates the
+and relevant professional organizations if the behavior also violates the
 Code of Conduct of those communities.  If the permanent ban occurs in response
 to actions against an individual, the editorial board will offer to back the
 offended party should they wish to take further action.
 
 ## Attribution
 
-This code of Conduct is adapted from the
+This Code of Conduct is adapted from the
 [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0,
 available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
