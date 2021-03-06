@@ -4,7 +4,7 @@ We at ELSP have chosen to adopt and follow the standards outlined in the
 Contributor Covenant Code of Conduct written for the development and use for
 Open Source Projects, at
 [Version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
-This is version 1.0 of our Code of Conduct was adopted on 8 Feb 2021.
+This is version 1.0 of our Code of Conduct, which was adopted on 8 Feb 2021.
 
 
 ## Our Pledge
