@@ -37,6 +37,12 @@ a:hover {
     float: left;
     padding: 25px 25px 25px 0px;}
 
+.picture {
+    width: calc((100% / 10) * 9);
+    position: relative;
+    float: center;
+    padding: 25px 25px 25px 25px;}
+
 .headerText {
     display: flex;
     flex-direction: column;
