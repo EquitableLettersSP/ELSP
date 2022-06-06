@@ -1,17 +1,17 @@
-name: Build test
+name: Links (Fail Fast)
 
 on: [push, pull_request]
 
 jobs:
-  build:
-    strategy:
-      fail-fast: false
-
+  linkChecker:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Hyperlink link checker
-      uses: untitaker/hyperlink@0.1.21
-      with:
-        args: .
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.5.0
+        with:
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
