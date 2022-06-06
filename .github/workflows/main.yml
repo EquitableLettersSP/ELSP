@@ -13,5 +13,5 @@ jobs:
     - name: Hyperlink link checker
       uses: untitaker/hyperlink@0.1.21
       with:
-        args: ./
+        args: .
 
