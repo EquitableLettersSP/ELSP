@@ -11,6 +11,9 @@
     border: 1px solid gray;
     outline: none;
     transition: .5s;
+    margin-bottom: .75em;
+    display: flex;
+    flex-direction: row;
 }
 
 .expandCollapse:hover {
@@ -20,27 +23,30 @@
 
 .sampleLetter {
     background-color: white;
-    box-shadow: 10px 10px 10px 10px #aaaaaa;
+    /*box-shadow: .75em .75em .75em .75em #aaaaaa;*/
+    border: 1px solid;
     font-family: 'Times New Roman', Times, serif;
-    width: 75%;
-    margin: auto;
-    max-height: 0;
+    width: 100%;
+    margin: auto auto 2em auto;
+    /*max-height: 0;*/
     overflow: hidden;
     transition: max-height 0.2s ease-out;
+    display: none;
 }
 
 .letterContent {
-    padding: 80px 80px 100px 80px;
+    padding: 10px 10px 50px 10px;
     margin: auto;
 }
 
 .letterhead{
     position: relative;
-    width: 350px;
+    width: 100%;
+    max-width: 350px;
     z-index: 9;
 }
 
-.hoverText{ 
+.hoverText {
     border-bottom: 1px dashed red;
     cursor: help;
     color: #4961b2;
@@ -48,6 +54,14 @@
 
 .hoverText:hover {
   color: #580202;
+}
+
+.emoji {
+    margin-right: .5em;
+}
+
+.capital {
+     text-transform: capitalize; 
 }
 
 /* a.tooltip {
@@ -77,3 +91,89 @@ a.tooltip:hover span {
     position: absolute;
     text-decoration: none;
 } */
+
+
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 25% auto; /* 15% from the top and centered */
+  padding: 15px;
+  border: 4px solid #444;
+  border-radius: 20px;
+  width: 75%; /* Could be more or less, depending on screen size */
+  display: flex;
+  flex-direction: row;
+
+}
+
+.modal-content p {
+    margin: 0;
+    order: 0;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  /*float: right;*/
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: .25em;
+  order: 1;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+
+@media (min-width: 950px) {
+  /* larger screens */
+
+.sampleLetter {
+    background-color: white;
+    box-shadow: .75em .75em .75em .75em #aaaaaa;
+    font-family: 'Times New Roman', Times, serif;
+    width: 75%;
+    margin: auto auto 2em auto;
+    border: 0;
+    /*max-height: 0;*/
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    display: none;
+}
+
+.letterContent {
+    padding: 80px 80px 100px 80px;
+    margin: auto;
+}
+
+/*.letterhead{
+    width: 350px;
+}*/
+
+/* Modal Content/Box */
+.modal-content {
+  width: 60%; /* Could be more or less, depending on screen size */
+}
+
+}

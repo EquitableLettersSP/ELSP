@@ -1,5 +1,17 @@
 /* sitewide layout/styles */
 
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+/* using box model from Paul Irish:
+http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+
+/* mobile, default */
+
 body {
     display: flex;
     flex-direction: column;
@@ -35,32 +47,64 @@ a:hover {
     height: 175px;
     position: relative;
     float: left;
-    padding: 25px 25px 25px 0px;}
+    padding: 25px 0px 0px 0px;
+}
 
 .picture {
     width: calc((100% / 10) * 9);
     position: relative;
     float: center;
-    padding: 25px 25px 25px 25px;}
+    /*padding: 25px 25px 25px 25px;*/
+}
 
 .headerText {
     display: flex;
     flex-direction: column;
-    padding: 25px;
+    padding: 25px 0px 0px 25px;
+}
+
+.siteTitle, .siteDescription {
+    line-height: 1.53em;
 }
 
 .navbar {
     display: flex;
+    flex-wrap:  wrap;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     list-style-type: none;
     padding: 0px;
-    margin: 20px 0px;
+    margin: 0px 0px;
 }
 
+.navbar li a {
+    display: block
+    padding: .5em .5em;
+}
+
+.toggle {
+    order:  1;
+    font-size: 2em;
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+
+
 .pageTab {
+    order:  3;
+    width:  100%;
+    text-align:  center;
+    display: none;
     text-decoration: none;
     font-weight: bold;
+    padding: 1em .5em;
+}
+
+.active .pageTab {
+    display: block;
 }
 
 .email {
@@ -70,4 +114,43 @@ a:hover {
 
 footer {
     height: 100px;
+}
+
+
+
+@media (min-width: 950px) {
+  /* larger screens */
+
+    .banner {
+        display: flex;
+        flex-direction: row;
+    }
+
+
+    .headerText {
+        line-height: 1.25em;
+    }
+
+  .navbar {
+        align-items: flex-start;     
+        flex-wrap: nowrap;
+        background: none;
+    }
+
+    .navbar li a {
+        display: block;
+        padding: 0px 0px;
+    }
+
+    .pageTab {
+        order: 1;
+        position: relative;
+        display: block; 
+        width: auto;
+    }
+
+    .toggle {
+        display: none;
+    }
+
 }
