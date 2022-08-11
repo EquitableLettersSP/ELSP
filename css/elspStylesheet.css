@@ -39,12 +39,27 @@ a:hover {
 
 .banner {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+}
+
+.siteDescription-mobile {
+    display: block;
+    line-height: 1.5em;
+}
+
+.siteDescription {
+    display: none;
+    line-height: 1.5em;
+}
+
+.banner div .headerText .siteTitle h1 {
+    margin: 0;
+    line-height: 1em;
 }
 
 .logo {
-    width: 175px;
-    height: 175px;
+    max-width: 100px;
+    max-height: 100px;
     position: relative;
     float: left;
     padding: 25px 0px 0px 0px;
@@ -59,7 +74,7 @@ a:hover {
 
 .headerText {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     padding: 25px 0px 0px 25px;
 }
 
@@ -122,16 +137,33 @@ footer {
   /* larger screens */
 
     .banner {
-        display: flex;
         flex-direction: row;
     }
 
+    .siteDescription-mobile {
+        display: none;
+    }
+
+    .siteDescription {
+        display: block;
+    }
+
+
+    .logo {
+        max-width: 175px;
+        max-height: 175px;
+        position: relative;
+        float: left;
+        padding: 25px 0px 0px 0px;
+    }
 
     .headerText {
         line-height: 1.25em;
+        display:  flex;
+        flex-direction: column;
     }
 
-  .navbar {
+    .navbar {
         align-items: flex-start;     
         flex-wrap: nowrap;
         background: none;
