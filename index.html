@@ -2,8 +2,15 @@
 <html>
 
 <head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+
     <link rel="stylesheet" type="text/css" href="css/elspStylesheet.css">
+
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+
     <title>ELSP Home</title>
 </head>
 
@@ -11,16 +18,22 @@
     <div class="centerPanel">
         <header>
             <div class="banner">
-                <img class="logo" src="images/color_circle_logo.gif" alt="pen and parchment logo">
-                <div class="headerText">
-                    <div class="siteTitle">
-                        <h1>Equitable Letters for Space Physics</h1>
-                    </div>
-                    <div class="siteDescription">
-                        <h2>Resources for writing better recommendation and nomination letters within the space physics community</h2>
+                <div>
+                    <img class="logo" src="images/color_circle_logo.gif" alt="pen and parchment logo">
+                    <div class="headerText">
+                        <div class="siteTitle">
+                            <h1>Equitable Letters for Space Physics</h1>
+                        </div>
+                        <div class="siteDescription">
+                            <h2>Resources for writing better recommendation and nomination letters within the space physics community</h2>
+                        </div>
                     </div>
                 </div>
+                <div class="siteDescription-mobile">
+                    <h2>Resources for writing better recommendation and nomination letters within the space physics community</h2>
+                </div>
             </div>
+
             <hr>
             <nav>
                 <ul class="navbar">
@@ -31,6 +44,7 @@
                     <li class="pageTab"><a href="elspSampleLetters.html">Sample Letters</a></li>
                     <li class="pageTab"><a href="elspCodeOfConduct.html">Code of Conduct</a></li>
                     <li class="pageTab"><a href="elspContact.html">Contact</a></li>
+                    <li class="toggle"><a href="#"><span class="material-icons md-36">menu</span></a></li>
                 </ul>
             </nav>
             <hr>
@@ -61,21 +75,32 @@
                 </ul>
 	        </p>
 
-	        <h3>Reviewers</h3>
-	        <p>If you are interested in being a reviewer, please <a href="elspContact.html">contact us</a>.</p>
+	        <h3>Volunteering</h3>
+	    <ul>
+	      <li><b>Submitters:</b> Anyone may submit a letter for review. <a href="https://equitableletterssp.github.io/ELSP/elspSubmissionGuidelines.html">Please see the submission guidelines for more details.</a></li>
+	      <li><b>Reviewers:</b> <a href="elspContact.html">If you are interested in being a reviewer, please contact us.</a></li>
+	      <li><b>Other Avenues:</b> There are other ways you can participate, and we are particularly looking for help in the following areas:
+		<ul>
+		  <li>Webpage designers, especially to improve the mobile version of the site.</li>
+		  <li>People to work on sample letters for additional underrepresented groups.</li>
+		</ul>
+	      </li>
+	    </ul>
 	    
-	    	<h3>Articles about ELSP</h3>
-	    	<p>
-	    		<ul>
-	    			<li><a href="https://doi.org/10.1093/astrogeo/atab090">Burrell, A.G., Jones Jr., M., Halford, A., Zawdie, K., Coxon, J. (2021). Bypassing the bias. <em>Astronomy and Geophysics</em>, 62(5), 5.28–5.29. https://doi.org/10.1093/astrogeo/atab090</a>
-	    		</ul>
-	    	</p>
+	    <h2>Articles about ELSP</h2>
+	    <p>
+	      <ul>
+	    	<li><a href="https://doi.org/10.1093/astrogeo/atab090">Burrell, A.G., Jones Jr., M., Halford, A., Zawdie, K., Coxon, J. (2021). Bypassing the bias. <em>Astronomy and Geophysics</em>, 62(5), 5.28–5.29. https://doi.org/10.1093/astrogeo/atab090</a>
+	      </ul>
+	    </p>
 	    	
         </main>
         <footer>
 
         </footer>
     </div> <!-- centerPanel div -->
+
+    <script src="js/navbar.js"></script>
 </body>
 
 </html>
