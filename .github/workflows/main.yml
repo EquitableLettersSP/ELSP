@@ -14,4 +14,6 @@ jobs:
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
+    options:
+      IgnoreURLs:
+        - "https://psycnet.apa.org/record/2011-04642-001"
